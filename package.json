@@ -1,0 +1,24 @@
+{
+  "name": "binar-assignment-11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dewisartika8/binar-assignment-11.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dewisartika8/binar-assignment-11/issues"
+  },
+  "homepage": "https://github.com/dewisartika8/binar-assignment-11#readme",
+  "devDependencies": {
+    "jest": "^30.0.4"
+  }
+}
